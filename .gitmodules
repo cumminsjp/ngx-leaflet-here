@@ -1,0 +1,3 @@
+[submodule "Leaflet.TileLayer.HERE"]
+	path = Leaflet.TileLayer.HERE
+	url = https://gitlab.com/IvanSanchez/Leaflet.TileLayer.HERE.git
